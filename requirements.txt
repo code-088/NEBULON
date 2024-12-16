@@ -5,3 +5,5 @@ winshell
 pyshorteners
 requests
 psutil
+win32con
+
