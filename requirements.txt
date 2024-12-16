@@ -1,0 +1,7 @@
+qrcode
+colorama
+instaloader
+winshell
+pyshorteners
+requests
+psutil
