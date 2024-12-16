@@ -1,4 +1,4 @@
-KUTULUM
+KURULUM
 
 cd NEBULON 
 
